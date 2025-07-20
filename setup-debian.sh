@@ -55,7 +55,7 @@ else
     echo "nvm is already installed."
 fi
 ## Clojure
-curl -L -o clojure-install.sh https://download.clojure.org/install/linux-install-1.11.3.1429.sh
+curl -L -o clojure-install.sh https://download.clojure.org/install/linux-install.sh
 chmod +x clojure-install.sh
 sudo ./clojure-install.sh
 rm clojure-install.sh
