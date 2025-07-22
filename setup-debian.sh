@@ -856,4 +856,4 @@ echo "- Your original .zshrc was backed up with a timestamp if it existed."
 echo "- llama.cpp: Ready for local LLM inference (rebuild with 'cd ~/dev/llama.cpp/build && make' after CUDA setup)"
 echo ""
 echo "🎉 Enjoy your powerful development environment! 🎉"
-echo "Perfect for scientific computing, AI/ML development, and creative projects!"
+
